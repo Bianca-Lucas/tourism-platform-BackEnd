@@ -80,7 +80,7 @@ npx prisma init
 
 ## Contribuição 🙋‍♂️
 Contribuições são bem-vindas!
-Sinta-se livre para abrir issues ou enviar pull requests.
+Sinta-se livre para enviar pull requests.
 
 ## Licença 📝 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
